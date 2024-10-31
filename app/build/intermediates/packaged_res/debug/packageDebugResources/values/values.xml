@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">UTSproject</string>
+    <string name="food_list_title">Menu Makanan</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="login">Login\n</string>
+    <string name="register">Register Here</string>
+    <style name="Base.Theme.UTSproject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.UTSproject" parent="Base.Theme.UTSproject"/>
+</resources>
